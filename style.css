@@ -13,12 +13,19 @@ strong {
 
     main {
         display: flex;
-        
- 
+
+
+    }
 
     a {
         width: 280px;
         height: 79px;
         background-color: #22D4FD;
-        border-radius: 16px;}
- }       
+        border-radius: 16px;
+        padding: 16px;
+    }
+
+    .texto {
+        width: 593px;
+        height: 352px;
+    }
